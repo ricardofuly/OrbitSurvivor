@@ -14,6 +14,7 @@ out/
 
 # CMake
 CMakeCache.txt
+CMakeLists.txt.DotSettings.user
 CMakeFiles/
 cmake_install.cmake
 compile_commands.json
